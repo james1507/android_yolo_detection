@@ -1,0 +1,70 @@
+# Android Studio and IntelliJ IDEA
+/.idea/
+/.gradle
+/local.properties
+/.cxx/
+/captures/
+/.externalNativeBuild/
+.cxx/
+*.iml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# User-specific and system files
+.DS_Store
+*.swp
+*.lock
+*.orig
+*.bak
+*.tmp
+
+# Gradle files
+.gradle/
+/build
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Java and Kotlin compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.dex
+
+# Proguard files
+proguard/
+proguard-rules.pro
+proguard-project.txt
+
+# Generated files and outputs
+bin/
+gen/
+out/
+
+# Android-specific files
+*.log
+local.properties
+.gradle/
+build/
+*/build/
+**/build/
+app/build/
+
+# Signing files
+signing.properties
+*.jks
+
+# Environment and configuration files
+.env
+
+# Log files
+*.log
+
+# Others
+.DS_Store
+.idea/
